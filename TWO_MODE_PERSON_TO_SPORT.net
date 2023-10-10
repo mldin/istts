@@ -1,0 +1,72 @@
+*Vertices 26
+1 "Melly Damara"
+2 "Hafidh Amrullah"
+3 "Stephen Tantowi"
+4 "Dady Khairul Imam"
+5 "M. Tsalits Nururrohman"
+6 "Rizaldi Eko Prasetyo"
+7 "Ahmad Habib"
+8 "Sing Tjoen Purnomohadi Sutedjo"
+9 "Mohammad Mauludin"
+10 "Melinda Shilatil Fauziyah"
+11 "Ahmad Fathoni"
+12 "Abdul Ghofur"
+13 "David Kurniawan"
+14 "Rio Kharismawan"
+15 "Boniface Boliona B."
+16 "Jeremy Kennedy"
+17 "Ramadhani Bagus Dwi C"
+18 "Luluk Hartono"
+19 "Carol Linggo Satria"
+20 "Jogging"
+21 "Hiking"
+22 "Swim"
+23 "Run"
+24 "Futsal"
+25 "Cycling"
+26 "Gym"
+*Arcs
+1 20
+1 26
+2 20
+2 22
+2 26
+3 24
+4 22
+4 26
+5 21
+5 23
+5 24
+5 26
+6 21
+6 26
+7 20
+7 22
+7 25
+7 26
+8 20
+8 25
+9 20
+9 25
+10 20
+11 20
+11 23
+11 24
+11 25
+12 22
+13 20
+13 25
+14 22
+14 23
+14 25
+15 20
+15 24
+16 20
+17 20
+17 24
+18 20
+18 21
+19 20
+19 21
+19 25
+19 26
